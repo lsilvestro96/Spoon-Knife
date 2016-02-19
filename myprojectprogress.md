@@ -1,1 +1,1 @@
-Add content later
+So far, I have determined that I want to contribute to a podcast manager application for Windows desktop. Initially, I wanted to create my own application; however, that would require an immense amount of dedication and resources, so I am currently planning on contributing to an existing open source project. Since I use VLC quite frequently, I am considering contributing to that project, but there are other open-source applications I can contribute to as well.
